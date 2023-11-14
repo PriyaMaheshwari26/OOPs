@@ -19,5 +19,10 @@ public class BoxWeight extends Box{
 
     }
 
+    public static void main(String[] args) {
+        BoxWeight obj=new BoxWeight();
+        System.out.println(obj instanceof Box);
+    }
+
 
 }

@@ -1,7 +1,23 @@
-package introduction.access;
+package access;
 
 public class A {
-    int num;
+    public A() {
+    }
+
+    //public- access from anywhere
+    //private- within same class
+    //protected- within same pkg and subclass in diff pkg
+    //default- within same pkg
+//    private int num;
+    protected int num;
+    public int getNum() {
+        return num;
+    }
+
+    public void setNum(int num) {
+        this.num = num;
+    }
+
     String name;
     int[] arr;
 
