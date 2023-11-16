@@ -1,2 +1,7 @@
-package abstractDemo;public class parent {
+package abstractDemo;
+
+abstract public class Parent {
+    int age;
+    abstract void career(String name);
+    abstract void partner(String name,int age);
 }
