@@ -27,3 +27,7 @@ E
 src/cloning/Main.java,d\a\da2b58e54eaaf15bf5699af054ec079c3381ddc9
 H
 src/collection/Main.java,a\f\afed3541c5c4f14d489cde321aaca5a8ea5557f3
+C
+src/enums/Main.java,1\a\1a7724f87366bb04a24653a9af34d0768a432ea5
+H
+src/enums/Interface.java,3\c\3c02b7bbdfb4d09dde50bdd81bfb813eecd4fc1d
