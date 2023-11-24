@@ -8,5 +8,9 @@ public class Main {
         Son son=new Son(24);
         son.career("Engineer");
         son.partner("Jinny ",22);
+        son.helloWorld();
+        //call non-static method
+        Parent.sayHello();
+
     }
 }

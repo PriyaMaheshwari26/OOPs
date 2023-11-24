@@ -1,0 +1,14 @@
+
+L
+java:S3740E"/Provide the parametrized type for this generic.(ŞšóÏ8êÌã¿¿1
+y
+java:S3008	"WRename this field "DEFAULT_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºş»öşÿÿÿÿ8úÌã¿¿1
+L	java:S106L"+Replace this use of System.out by a logger.(ã¿¢Ôùÿÿÿÿ8‡Íã¿¿1
+L	java:S106M"+Replace this use of System.out by a logger.(İ˜½…ùÿÿÿÿ8‡Íã¿¿1
+L	java:S106N"+Replace this use of System.out by a logger.(¢ËÉşÿÿÿÿ8‡Íã¿¿1
+L	java:S106P"+Replace this use of System.out by a logger.(¢ËÉşÿÿÿÿ8ˆÍã¿¿1
+G	java:S106Q"+Replace this use of System.out by a logger.(ÚàÑô8ˆÍã¿¿1
+]	java:S125T"<This block of commented-out lines of code should be removed.(ö¯¸Ùúÿÿÿÿ8‰Íã¿¿1
+L	java:S106Y"+Replace this use of System.out by a logger.(Õ§ÛŸûÿÿÿÿ8ŠÍã¿¿1
+E
+java:S1144:"(Remove this unused private "sum" method.(èêœ²8„¢é¿¿1

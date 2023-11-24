@@ -1,0 +1,7 @@
+
+p
+java:S2975"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(¯áÑë8ÍÒùİ¿1
+u
+java:S3012"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(À¹µ_8éÒùİ¿1
+K
+java:S1656"/Remove or correct this useless self-assignment.(À¹µ_8êÒùİ¿1
